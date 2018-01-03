@@ -5,14 +5,11 @@
       <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" />
       <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.main_menu.xml" />
       <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/App.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/test1" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/test2" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../test/src/pl/samouczekprogramisty/kursjava/engine/Cogwheel.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
